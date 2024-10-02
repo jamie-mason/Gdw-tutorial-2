@@ -1,0 +1,6 @@
+2024/10/02-17:15:15.857 53fc Creating DB C:/Users/jmaso/OneDrive/Documents/GitHub/Gdw-tutorial-2/gdwTutorial2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/10/02-17:15:15.862 53fc Reusing MANIFEST C:/Users/jmaso/OneDrive/Documents/GitHub/Gdw-tutorial-2/gdwTutorial2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/02-17:23:04.602 5bf4 Level-0 table #5: started
+2024/10/02-17:23:04.726 5bf4 Level-0 table #5: 1167 bytes OK
+2024/10/02-17:23:04.727 5bf4 Delete type=0 #3
+2024/10/02-17:23:04.733 5bf4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
