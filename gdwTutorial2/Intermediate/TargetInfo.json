@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gdwTutorial2",
+			"Path": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gdwTutorial2Editor",
+			"Path": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

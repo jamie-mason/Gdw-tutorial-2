@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\gdwTutorial2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gdwTutorial2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\gdwTutorial2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\gdwTutorial2.code-workspace" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\gdwTutorial2">
+      <UniqueIdentifier>{01219279-C85A-3705-BF0B-0A4E6D8F9059}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\gdwTutorial2\CarEngineSoundHandler.cpp">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gdwTutorial2\CarEngineSoundHandler.h">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gdwTutorial2\FmodCarSoundManager.cpp">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gdwTutorial2\FmodCarSoundManager.h">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gdwTutorial2\FmodCarSoundManagerSetParameters.cpp">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gdwTutorial2\FmodCarSoundManagerSetParameters.h">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\gdwTutorial2\gdwTutorial2.Build.cs">
+      <Filter>Source\gdwTutorial2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\gdwTutorial2\gdwTutorial2.cpp">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gdwTutorial2\gdwTutorial2.h">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gdwTutorial2\MyClass.cpp">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gdwTutorial2\MyClass.h">
+      <Filter>Source\gdwTutorial2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\CarEngineSoundHandler.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\CarEngineSoundHandler.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\gdwTutorial2.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\gdwTutorial2.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\Source\\gdwTutorial2\\gdwTutorial2.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\jmaso\\OneDrive\\Documents\\GitHub\\Gdw-tutorial-2\\gdwTutorial2\\.vscode\\compileCommands_Default\\gdwTutorial2.260.rsp"
+		],
+		"directory": "D:\\UE_5.1\\Engine\\Source"
+	}
+]
